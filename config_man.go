@@ -1,7 +1,7 @@
 // Package config caches configuration objects per Configger implementation.
 //
 //	Configurations can be loaded from
-//	 1. environment variables (overriding and match the json tag for the config value except in uppercase)
+//	 1. environment variables (override and match the json tag for the config value, except in uppercase)
 //	 2. config files
 //
 // * ConfigMan caches Configger objects.
